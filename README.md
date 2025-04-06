@@ -1,3 +1,3 @@
 # Metodos
 Proyecto Juego Del Raton Code Safer
-JavaSwing
+Tecnologia..JavaSwing 
